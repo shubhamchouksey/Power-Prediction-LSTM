@@ -27,3 +27,13 @@ The columns' names are self-explanatory.
 This file contains the weather data from October 1st, 2019 to October 27th, 2019.       
 
 You need to predict the generation of power of the given plan in this duration: October 1st, 2019 to October 27th, 2019.
+
+## Getting Started
+1. Clone this repo    
+
+2. See [Notebook 1: Solar_Generation](https://github.com/shubhamchouksey/Power-Prediction-LSTM/blob/master/Solar_Generation.ipynb) to examine raw data, EDA, preliminary cleaning steps, feature engineering, modeling, and evaluation of predictions.
+
+3. See [Notebook 2: Technical Report](https://github.com/shubhamchouksey/Power-Prediction-LSTM/blob/master/Technical_Report.ipynb) for an overview of the project.
+
+## Reference:
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
