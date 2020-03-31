@@ -35,5 +35,8 @@ You need to predict the generation of power of the given plan in this duration: 
 
 3. See [Notebook 2: Technical Report](https://github.com/shubhamchouksey/Power-Prediction-LSTM/blob/master/Technical_Report.ipynb) for an overview of the project.
 
+## Result 
+![](img/4.png)
+
 ## Reference:
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
